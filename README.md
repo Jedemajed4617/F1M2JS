@@ -1,2 +1,2 @@
 # JavaScript
-All my JavaScript for school
+Javascript opdrachten
